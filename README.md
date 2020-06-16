@@ -1,17 +1,17 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# South Korea COVID19 Analysis
 
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+> The dataset is available on kaggle: [Source](https://www.kaggle.com/kimjihoo/coronavirusdataset)
+It contains well-structured and cleaned data about covid19 across South Korea. Data is aggregated on different levels, what allows to analyse it in a flexible manner.
 
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
+> COVID19 outbreak in South Korea was quickly tackled, social distancing and fast response have helped people to avoid serious outbreak.
 
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+> The data allowed to analyse it from multiple angles, I wanted to show how it can be used and improved. There is still a lot of insight available out of this data, I wanted to try and show as many different things as possible. 
